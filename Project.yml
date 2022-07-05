@@ -1,0 +1,15 @@
+name: ProjectsEnvYml
+dependencies:
+  - python=3.9
+  - numpy=1.21.*
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scikit-image
+  - mpl_toolkits
+  - ipykernel
+  - ipython
+  - scipy
+  - copy
+  - time
+  - 
