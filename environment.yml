@@ -10,5 +10,4 @@ dependencies:
   - ipython
   - scipy
   - time
-  - pip:
-    - ffmpeg
+  - ffmpeg=4.4.1
