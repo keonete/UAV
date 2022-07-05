@@ -10,5 +10,5 @@ dependencies:
   - ipython
   - scipy
   - time
-- pip:
+  - pip:
     - ffmpeg
