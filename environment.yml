@@ -6,9 +6,7 @@ dependencies:
   - seaborn
   - scikit-learn
   - scikit-image
-  - mpl_toolkits
   - ipykernel
   - ipython
   - scipy
-  - copy
   - time
